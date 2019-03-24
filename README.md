@@ -1,1 +1,1 @@
-# bad-gateway.gihub.io
+# bad-gateway.github.io
